@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Grid, GridItem, Show, Flex, Box } from '@chakra-ui/react'
 import { Genre } from './hooks/useGenres'
-import { Platform } from './hooks/useGames'
+import { Platform } from './hooks/usePlatforms'
 import Navbar from './components/Navbar'
 import GameGride from './components/GameGride'
 import GenreList from './components/GenreList'
