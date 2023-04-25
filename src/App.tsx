@@ -11,7 +11,7 @@ import GameHeading from './components/GameHeading'
 
 export interface GameQuery {
   genreId?: number;
-  platform?: number;
+  platformId?: number;
   sortOrder: string
   searchText: string
 }
