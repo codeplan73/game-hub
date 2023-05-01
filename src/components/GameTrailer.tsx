@@ -10,7 +10,7 @@ const GameTrailer = ({ gameId }: Props) => {
   if (isLoading) return null;
 
   if (error) throw error;
-
+ 
   const first = data?.results[0];
   return first ? (
     <video

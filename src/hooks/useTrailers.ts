@@ -13,4 +13,5 @@ const useTrailers = (gameId: number) => {
   });
 };
 
-export default useTrailers;
+export default useTrailers; 
+
