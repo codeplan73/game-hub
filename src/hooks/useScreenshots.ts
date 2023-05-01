@@ -13,4 +13,5 @@ const useScreenshots = (gameId: number) => {
   });
 };
 
+
 export default useScreenshots;
