@@ -10,7 +10,7 @@ const Layout = () => {
             <Outlet/>
         </Box>
     </>
-  )
+  ) 
 }
 
 export default Layout
